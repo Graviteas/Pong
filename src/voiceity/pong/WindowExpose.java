@@ -1,6 +1,7 @@
 package voiceity.pong;
 
 import javax.swing.JFrame;
+import java.awt.Color;
 
 public class WindowExpose extends JFrame {
     private Content content;
